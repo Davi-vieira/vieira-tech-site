@@ -86,4 +86,4 @@ npx vercel
 
 **Davi Vieira**  
 - GitHub: [@Davi-vieira](https://github.com/Davi-vieira)  
-- E-mail: `davi.vieira@vieiratech.com`
+- E-mail: `vieira.tech2000@gmail.com`

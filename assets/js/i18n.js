@@ -120,7 +120,7 @@ const translations = {
     
     contactCardEmailTitle: "E-mail Corporativo",
     contactCardEmailDesc: "Para propostas formais, RFPs e parcerias.",
-    contactCardEmailAction: "davi.vieira@vieiratech.com",
+    contactCardEmailAction: "vieira.tech2000@gmail.com",
 
     contactCardDirectTitle: "Contato Rápido",
     contactCardDirectDesc: "Canal direto para alinhamentos ágeis de escopo.",
@@ -274,7 +274,7 @@ const translations = {
     
     contactCardEmailTitle: "Corporate Inquiries",
     contactCardEmailDesc: "For formal RFPs, architecture reviews, and consulting.",
-    contactCardEmailAction: "davi.vieira@vieiratech.com",
+    contactCardEmailAction: "vieira.tech2000@gmail.com",
 
     contactCardDirectTitle: "Direct Contact",
     contactCardDirectDesc: "Fast-track channel for agile scope discussions.",
